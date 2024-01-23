@@ -1,0 +1,6 @@
+langdetect
+gruut
+g2p_en
+deep-phonemizer
+cached-path
+transformers
